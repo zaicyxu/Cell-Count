@@ -36,7 +36,8 @@ paddle官网提供的paddlepaddlegpu版本需要严格与jetpack版本匹配，�
 
 打包的时候出现如下错误：
 
-![Untitled](%E7%BB%86%E8%83%9E%E8%AE%A1%E6%95%B0%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A%20437f455bab4141959647af7e71913633/Untitled.jpeg)
+![Uploading image.png…]()
+
 
 解决方案如下：
 
